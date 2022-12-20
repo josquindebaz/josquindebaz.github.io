@@ -7,7 +7,7 @@ permalink: /about/
 ![avatar](https://www.gravatar.com/avatar/4e92d6f761407d6a6f5ccc55cbd4de5a "Josquin Debaz gravatar")
 
 
-Josquin Debaz is now developper at Finsit.
+Josquin Debaz is now developer at Finsit.
 
 Also president and podcast host of An Daol Vras (Cantine numérique de Brest), a third place organizing coworking, activities around digital culture, cybersecurity conference... => [lacantine-brest.net](https://www.lacantine.brest-net/)
 
