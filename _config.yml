@@ -28,7 +28,7 @@ twitter_username: josquindebaz
 github_username:  josquindebaz
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
